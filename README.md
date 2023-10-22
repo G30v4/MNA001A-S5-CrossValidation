@@ -3,9 +3,9 @@ Example of implementation of the Cross Validation and Grid Search algorithm
 
 ## Implementations
 
-- [ ] CrossValidator class
-  - [ ] getFolds method
-  - [ ] crossValidate method 
+- [x] CrossValidator class
+  - [x] getFolds method
+  - [x] crossValidate method 
 - [ ] GridSearch Algorithm
 
 ## Activities
@@ -13,3 +13,8 @@ Example of implementation of the Cross Validation and Grid Search algorithm
 - [ ] Compare our CrossValidator algorithm with the one offered by the scikit-learn library
 - [ ] Buscar los mejores parámetros para el clasificador RandomForest con el algoritmo GridSearch
 - [ ] Compare the results of our GridSearch algorithm with scikit-learn's GridSearch
+
+
+## References
+- [Cross Validation in Machine Learning](https://www.geeksforgeeks.org/cross-validation-machine-learning/)
+- [k-Fold Cross Validation](https://www.youtube.com/watch?v=porI2KTz_xg)
