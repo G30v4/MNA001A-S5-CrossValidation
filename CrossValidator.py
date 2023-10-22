@@ -1,3 +1,9 @@
+__author__ = "@G30v4"
+__license__ = "GPL"
+__version__ = "1.0.0"
+__maintainer__ = "@G30v4"
+__date__ = "22/Oct/2023"
+
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn import datasets
