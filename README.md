@@ -9,8 +9,8 @@ Example of implementation of the Cross Validation and Grid Search algorithm
 - [ ] GridSearch Algorithm
 
 ## Activities
-- [ ] Evaluate the RandomForestClassifi classifier with our own CrossValidator class
-- [ ] Compare our CrossValidator algorithm with the one offered by the scikit-learn library
+- [x] Evaluate the RandomForestClassifi classifier with our own CrossValidator class
+- [x] Compare our CrossValidator algorithm with the one offered by the scikit-learn library
 - [ ] Finding the best parameters for the RandomForest classifier with the GridSearch algorithm
 - [ ] Compare the results of our GridSearch algorithm with scikit-learn's GridSearch
 
